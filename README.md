@@ -20,29 +20,15 @@
 * ## 데이터 베이스
     ![alt text](github/diagram.png)
 * ## MockUp
-    ![alt text](github/FirstPage.PNG)   
-    * 앱을 실행 했을 때 처음으로 나오는 화면.
-    
-    ![alt text](github/PostView.PNG)
-    * 자신이 올린 사진, 사진과 관련된 text 리스트.
-    
-    ![alt text](github/MyPost.PNG)
-    * 친구가 게시한 글.
-    
-    ![alt text](github/Calendar.PNG)
-    * 자신이 공유할 일정 확인.
-    
-    ![alt text](github/FriendsList.PNG)
-    * 나의 친구 목록.
-    
-    ![alt text](github/Placelist.PNG)
-    * 장소 목록.
-    
-    ![alt text](github/NewPost.PNG)
-    * 새로운 글 작성.
-    
-    ![alt text](github/Booking.PNG)
-    * 날짜와 장소를 정하고 만남 장소 예약 가능.
+    앱을 실행 했을 때 처음으로 나오는 화면. | 자신이 올린 사진, 사진과 관련된 text 리스트.
+    :---------------------------:|:---------------------------:
+    ![alt text](github/FirstPage.PNG) | ![alt text](github/PostView.PNG)
+    친구가 게시한 글. | 자신이 공유할 일정 확인.
+    ![alt text](github/MyPost.PNG) | ![alt text](github/Calendar.PNG)
+    나의 친구 목록. | 장소 목록.
+    ![alt text](github/FriendsList.PNG) | ![alt text](github/Placelist.PNG)
+    새로운 글 작성. | 날짜와 장소를 정하고 만남 장소 예약 가능.
+    ![alt text](github/NewPost.PNG) | ![alt text](github/Booking.PNG)
     
 # TODO
 - [x] 11.26 Mock-up 추가
@@ -66,24 +52,16 @@
 - [ ] ~~오픈 포스트 보기~~
 
 * ## 기능구현
-    ![alt_text](github/firsttime.PNG)
-    * 처음 시작 화면
-    
-    ![alt_text](github/postlist.png)
-    * 서버에 저장된 post의 항목을 보여주는 화면
-    
-    ![alt_text](github/placelistactivity.PNG)
-    * 저장된 장소들의 항목을 보여주는 화면
-    
-    ![alt_text](github/newpostactivity.PNG)
-    * 새로운 post 내용을 입력하고 저장 할 수 있는 기능
-    
-    * 아직 구현되지 않은 기능
-    
-    ![alt_text](github/calendarActivity.PNG)
-    * 등록된 일정을 보여주는 화면
-    * 포스트 (편집, 삭제)
-    * 친구목록
+    처음 시작 화면 | 서버에 저장된 post의 항목을 보여주는 화면
+    :---------------------------:|:---------------------------:
+    ![alt_text](github/firsttime.PNG) | ![alt_text](github/postlist.png)
+    저장된 장소들의 항목을 보여주는 화면 | 새로운 post 내용을 입력하고 저장 할 수 있는 기능
+    ![alt_text](github/placelistactivity.PNG) | ![alt_text](github/newpostactivity.PNG)
+    아직 구현되지 않은 기능 |
+    ![alt_text](github/calendarActivity.PNG) |
+    * (미구현) 등록된 일정을 보여주는 화면
+    * (미구현) 포스트 (편집, 삭제)
+    * (미구현) 친구목록
 
 * ## 한계 및 아쉬웠던 점 (2019.11.29)
     * 안드로이드 버전에 따른 요구되는 설정들이 있었는데, 최초에 이를 파악하지 못해 많은 시간을 소비함.
